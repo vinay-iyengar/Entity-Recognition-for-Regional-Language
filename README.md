@@ -1,4 +1,4 @@
-# Entity-Recognition-for-Kannada-Language
+# Entity-Recognition-for-Regional-Language
 The main objective is to develop a system, where in we can classify the entites in the sentence or input that is given to the system.The entities are to be classified according to their part of speech.
 
 ## Install
